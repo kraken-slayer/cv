@@ -57,7 +57,7 @@ export const RESUME_DATA = {
     {
       company: "Intel Corporation",
       link: "https://www.intel.com/content/www/us/en/homepage.html",
-      badges: ["Cloudbees CI", "Jenkins", "GitHub", "AWS", "Azure", "Microservices"],
+      badges: ["Cloudbees CI", "Jenkins", "GitHub Actions", "AWS", "Azure"],
       title: "DevOps Architect",
       logo: ConsultlyLogo,
       start: "Apr 2024",
