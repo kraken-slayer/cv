@@ -15,6 +15,7 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/Phoenix,+AZ/",
   about:
     "Experienced DevOps Architect with a passion for creating secure, scalable, and reliable software solutions. Bringing a strong proficiency in automation tools and scripting along with cloud infrastructure services (AWS, Azure, IBM) including a security-focused mindset and a commitment to quality.  Specializing in infrastructure automation, CI/CD (Cloudbees CI / Jenkins, GitHub Actions) and containerization technologies (Docker, Kubernetes) and delivering customer-first services that ensure both operational and cost efficiencies, along with security best practices.",
+    // "20 year Intel career with a strong background in DevOps, Enterprise Architecture, IT Operations and Software Engineering. Specializing in implementing cloud infrastructure, pipeline automation, building scalable microservices, and real-time collaboration systems. Passionate about Secure Software Development Lifecycle (SDL) practices, and Developer Experience in support of building applications running at the Edge. Experienced in mentoring others, continuous learning and building strong skills and promoting opportunities for growth. Recognized for strong remote team leadership, capable of building highly successful teams.",
   summary: (
     <>
       DevOps Architect and Software Engineer specializing in automation and pipeline development. Experienced in technical architecture, secure software development, remote team
@@ -47,7 +48,7 @@ export const RESUME_DATA = {
   education: [
     {
       school: "Arizona State University",
-      degree: "Bachelor's Degree in Liberal Arts - Psychology",
+      degree: "Bachelor's Degree (BS)",
       start: "1989",
       end: "1992",
     },
@@ -59,8 +60,8 @@ export const RESUME_DATA = {
       badges: ["Cloudbees CI", "Jenkins", "GitHub", "AWS", "Azure", "Microservices"],
       title: "DevOps Architect",
       logo: ConsultlyLogo,
-      start: "2004",
-      end: "2024",
+      start: "Apr 2024",
+      end: "Sept 2024",
       description: (
         <>
           Leading DevOps pipeline development and technical architecture in support of software development teams across Intel.
