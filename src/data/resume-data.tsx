@@ -183,8 +183,8 @@ software which didn’t meet business requirements - avoided multi-million dolla
       badges: ["Business Objects", "Windows", "SQL", ".NET", "Agile", "FogBugz"],
       title: "Sr. Systems Analyst",
       logo: NSNLogo,
-      start: "2010",
-      end: "2012",
+      start: "2004",
+      end: "2011",
       description:
         "Owned applications and infrastructure supporting software development teams and projects which supported Corporate Services application portfolio.",
     },
