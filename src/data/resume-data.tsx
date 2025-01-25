@@ -14,12 +14,11 @@ export const RESUME_DATA = {
   location: "Phoenix, Arizona, USA",
   locationLink: "https://www.google.com/maps/place/Phoenix,+AZ/",
   about:
-    "Experienced DevOps Architect with a passion for creating secure, scalable, and reliable software solutions. Bringing a strong security-focused mindset and a commitment to quality, specializes in infrastructure automation and delivering customer-first services that ensure both operational efficiency and enhanced security.",
+    "Experienced DevOps Architect with a passion for creating secure, scalable, and reliable software solutions. Bringing a strong proficiency in automation tools and scripting along with cloud infrastructure services (AWS, Azure, IBM) including a security-focused mindset and a commitment to quality.  Specializing in infrastructure automation, CI/CD (Cloudbees CI / Jenkins, GitHub Actions) and containerization technologies (Docker, Kubernetes) and delivering customer-first services that ensure both operational and cost efficiencies, along with security best practices.",
   summary: (
     <>
-      DevOps Architect and Software Engineer specializing in automation and pipeline development in support of building high-performance
-      applications, scalable microservices, and real-time collaboration systems. Experienced in technical architecture, secure software development and remote team
-      leadership and cross-functinal team leadership.
+      DevOps Architect and Software Engineer specializing in automation and pipeline development. Experienced in technical architecture, secure software development, remote team
+      leadership and cross-functional collaboration.
     </>
   ),
   avatarUrl: "https://avatars.githubusercontent.com/u/12350797?s=400&u=3d09b3f5506b149d912bfa4b9aa012c5758e7bd5&v=4",
