@@ -24,7 +24,7 @@ export const RESUME_DATA = {
     </>
   ),
   avatarUrl: "https://avatars.githubusercontent.com/u/12350797?s=400&u=3d09b3f5506b149d912bfa4b9aa012c5758e7bd5&v=4",
-  personalWebsiteUrl: "https://jamesrgregg.github.io/cv/",
+  personalWebsiteUrl: "https://professional-card-astro-alpha-rosy.vercel.app/",
   contact: {
     email: "james.r.gregg@cox.net",
     tel: "+4807487888",
