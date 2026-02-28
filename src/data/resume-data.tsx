@@ -56,6 +56,30 @@ export const RESUME_DATA = {
   ],
   work: [
     {
+      company: "Meritage Homes",
+      link: "https://www.meritagehomes.com/",
+      badges: ["Azure DevOps", "Defender", "Dynatrace", "Rapid7"],
+      title: "Senior Cloud Engineer",
+      start: "April 2025",
+      end: "Present",
+      description: (
+        <>
+          Led comprehensive expansion of Azure Policy framework from 27 to 181 policy assignments, implementing CIS Controls v8.1 security baseline across multiple Azure subscriptions
+          <ul className="list-inside list-disc">
+            <li>
+              Developed Infrastructure-as-Code (Bicep) and Azure DevOps automation for policy deployment and compliance monitoring
+            </li>
+            <li>
+              Designed and implemented centralized Linux server management solution (Ansible) supporting 100+ servers across hybrid Azure/on-premises environments
+            </li>
+            <li>
+              Led complete migration of all Azure DevOps pipelines from legacy infrastructure to Managed DevOps Pools (Linux Ubuntu 24.04 and Windows Server 2022)
+            </li>
+           </ul>
+        </>
+      ),
+    },
+    {
       company: "Intel Corporation",
       link: "https://www.intel.com/content/www/us/en/homepage.html",
       badges: ["Cloudbees CI", "Jenkins", "GitHub Actions", "AWS", "Azure"],
