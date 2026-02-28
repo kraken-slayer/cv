@@ -167,9 +167,6 @@ toolchain from 40 to 10 tools which resulted in reduced licensing / maintenance 
             Led DevOps team across multiple successful software development projects
             </li>
             <li>
-            Led DevOps team across multiple successful software development projects
-            </li>
-            <li>
               Built and established a high performing DevOps Engineering team
               Recognized for establishing build automation, SDL practices and infrastructure
               Built pipelines in support of multiple successful software development projects
